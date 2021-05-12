@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.error{
+  color: red;
+  text-transform: capitalize;
+  font-style: italic;
+  font-size: 15px;
+}
